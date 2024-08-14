@@ -25,6 +25,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 28
+    namespace "io.flutter.plugins.deviceinfo"
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
