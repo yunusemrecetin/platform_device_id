@@ -1,4 +1,4 @@
 {
   "go.inferGopath": false,
-  "dart.flutterSdkPath": ".fvm/versions/3.22.3"
+  "dart.flutterSdkPath": ".fvm/versions/stable"
 }
